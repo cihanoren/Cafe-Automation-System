@@ -1,0 +1,432 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\No1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|C:\\Users\\LENOVO\\Desktop\\No1\\no1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|solutionrelative:no1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|c:\\users\\lenovo\\desktop\\no1\\no1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|solutionrelative:no1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|C:\\Users\\LENOVO\\Desktop\\No1\\no1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|solutionrelative:no1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|C:\\Users\\LENOVO\\Desktop\\No1\\no1\\baglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|solutionrelative:no1\\baglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|C:\\Users\\LENOVO\\Desktop\\No1\\no1\\datagridview_merge_cells.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|solutionrelative:no1\\datagridview_merge_cells.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|C:\\Users\\LENOVO\\Desktop\\No1\\no1\\urunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|solutionrelative:no1\\urunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|C:\\Users\\LENOVO\\Desktop\\No1\\no1\\urunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|solutionrelative:no1\\urunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|C:\\Users\\LENOVO\\Desktop\\No1\\no1\\satilanurunhacmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|solutionrelative:no1\\satilanurunhacmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|C:\\Users\\LENOVO\\Desktop\\No1\\no1\\satilanurunhacmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|solutionrelative:no1\\satilanurunhacmi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|C:\\Users\\LENOVO\\Desktop\\No1\\no1\\mutfaksatilan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|solutionrelative:no1\\mutfaksatilan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|C:\\Users\\LENOVO\\Desktop\\No1\\no1\\mutfaksatilan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|solutionrelative:no1\\mutfaksatilan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|C:\\Users\\LENOVO\\Desktop\\No1\\no1\\mutfakrecete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|solutionrelative:no1\\mutfakrecete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|C:\\Users\\LENOVO\\Desktop\\No1\\no1\\mutfakrecete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|solutionrelative:no1\\mutfakrecete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|C:\\Users\\LENOVO\\Desktop\\No1\\no1\\kullanicilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|solutionrelative:no1\\kullanicilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|C:\\Users\\LENOVO\\Desktop\\No1\\no1\\kullanicilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|solutionrelative:no1\\kullanicilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|C:\\Users\\LENOVO\\Desktop\\No1\\no1\\islenmisrecete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|solutionrelative:no1\\islenmisrecete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|C:\\Users\\LENOVO\\Desktop\\No1\\no1\\islenmisrecete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|solutionrelative:no1\\islenmisrecete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|C:\\Users\\LENOVO\\Desktop\\No1\\no1\\hazirurunsatilan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|solutionrelative:no1\\hazirurunsatilan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|C:\\Users\\LENOVO\\Desktop\\No1\\no1\\hazirurunsatilan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|solutionrelative:no1\\hazirurunsatilan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|C:\\Users\\LENOVO\\Desktop\\No1\\no1\\barsatilan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|solutionrelative:no1\\barsatilan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|C:\\Users\\LENOVO\\Desktop\\No1\\no1\\barsatilan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|solutionrelative:no1\\barsatilan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|C:\\Users\\LENOVO\\Desktop\\No1\\no1\\barrecete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|solutionrelative:no1\\barrecete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|C:\\Users\\LENOVO\\Desktop\\No1\\no1\\barrecete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|solutionrelative:no1\\barrecete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|C:\\Users\\LENOVO\\Desktop\\No1\\no1\\anamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|solutionrelative:no1\\anamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|C:\\Users\\LENOVO\\Desktop\\No1\\no1\\anamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36039626-2DB8-4732-B1D5-B1479D13F062}|No1\\No1.csproj|solutionrelative:no1\\anamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MutfakSatilan.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\MutfakSatilan.cs",
+              "RelativeDocumentMoniker": "No1\\MutfakSatilan.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\MutfakSatilan.cs",
+              "RelativeToolTip": "No1\\MutfakSatilan.cs",
+              "ViewState": "AQIAAJ4CAAAAAAAAAADwv8MCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-27T18:11:49.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Urunler.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\Urunler.cs",
+              "RelativeDocumentMoniker": "No1\\Urunler.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\Urunler.cs",
+              "RelativeToolTip": "No1\\Urunler.cs",
+              "ViewState": "AQIAAIABAAAAAAAAAAAiwKEBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-27T18:11:49.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataGridView_Merge_Cells.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\DataGridView_Merge_Cells.cs",
+              "RelativeDocumentMoniker": "No1\\DataGridView_Merge_Cells.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\DataGridView_Merge_Cells.cs",
+              "RelativeToolTip": "No1\\DataGridView_Merge_Cells.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T18:11:49.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Baglanti.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\Baglanti.cs",
+              "RelativeDocumentMoniker": "No1\\Baglanti.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\Baglanti.cs",
+              "RelativeToolTip": "No1\\Baglanti.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAqwI4AAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T18:11:49.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\Program.cs",
+              "RelativeDocumentMoniker": "No1\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\Program.cs",
+              "RelativeToolTip": "No1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T18:11:49.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\Form1.cs",
+              "RelativeDocumentMoniker": "No1\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "No1\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T18:11:49.723Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Urunler.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\Urunler.cs",
+              "RelativeDocumentMoniker": "No1\\Urunler.cs",
+              "ToolTip": "C:\\Users\\aliko\\OneDrive\\Masa\u00FCst\u00FC\\No1\\No1\\Urunler.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\aliko\\OneDrive\\Masa\u00FCst\u00FC\\No1\\No1\\Urunler.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-27T18:11:49.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\Form1.cs",
+              "RelativeDocumentMoniker": "No1\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\Form1.cs",
+              "RelativeToolTip": "No1\\Form1.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAADwv2cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T18:11:49.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SatilanUrunHacmi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\SatilanUrunHacmi.cs",
+              "RelativeDocumentMoniker": "No1\\SatilanUrunHacmi.cs",
+              "ToolTip": "C:\\Users\\aliko\\OneDrive\\Masa\u00FCst\u00FC\\No1\\No1\\SatilanUrunHacmi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\aliko\\OneDrive\\Masa\u00FCst\u00FC\\No1\\No1\\SatilanUrunHacmi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-27T18:11:49.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SatilanUrunHacmi.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\SatilanUrunHacmi.cs",
+              "RelativeDocumentMoniker": "No1\\SatilanUrunHacmi.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\SatilanUrunHacmi.cs",
+              "RelativeToolTip": "No1\\SatilanUrunHacmi.cs",
+              "ViewState": "AQIAANcAAAAAAAAAAAAqwAIBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-27T18:11:49.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MutfakSatilan.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\MutfakSatilan.cs",
+              "RelativeDocumentMoniker": "No1\\MutfakSatilan.cs",
+              "ToolTip": "C:\\Users\\aliko\\OneDrive\\Masa\u00FCst\u00FC\\No1\\No1\\MutfakSatilan.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\aliko\\OneDrive\\Masa\u00FCst\u00FC\\No1\\No1\\MutfakSatilan.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-27T18:11:49.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MutfakRecete.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\MutfakRecete.cs",
+              "RelativeDocumentMoniker": "No1\\MutfakRecete.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\MutfakRecete.cs",
+              "RelativeToolTip": "No1\\MutfakRecete.cs",
+              "ViewState": "AQIAAPYCAAAAAAAAAAAmwBMDAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-27T18:11:49.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MutfakRecete.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\MutfakRecete.cs",
+              "RelativeDocumentMoniker": "No1\\MutfakRecete.cs",
+              "ToolTip": "No1/MutfakRecete.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-27T18:11:49.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Kullanicilar.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\Kullanicilar.cs",
+              "RelativeDocumentMoniker": "No1\\Kullanicilar.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\Kullanicilar.cs",
+              "RelativeToolTip": "No1\\Kullanicilar.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAcwJwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-27T18:11:49.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Kullanicilar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\Kullanicilar.cs",
+              "RelativeDocumentMoniker": "No1\\Kullanicilar.cs",
+              "ToolTip": "C:\\Users\\aliko\\OneDrive\\Masa\u00FCst\u00FC\\No1\\No1\\Kullanicilar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\aliko\\OneDrive\\Masa\u00FCst\u00FC\\No1\\No1\\Kullanicilar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-27T18:11:49.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IslenmisRecete.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\IslenmisRecete.cs",
+              "RelativeDocumentMoniker": "No1\\IslenmisRecete.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\IslenmisRecete.cs",
+              "RelativeToolTip": "No1\\IslenmisRecete.cs",
+              "ViewState": "AQIAACYCAAAAAAAAAAAiwEACAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-27T18:11:49.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IslenmisRecete.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\IslenmisRecete.cs",
+              "RelativeDocumentMoniker": "No1\\IslenmisRecete.cs",
+              "ToolTip": "C:\\Users\\aliko\\OneDrive\\Masa\u00FCst\u00FC\\No1\\No1\\IslenmisRecete.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\aliko\\OneDrive\\Masa\u00FCst\u00FC\\No1\\No1\\IslenmisRecete.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-27T18:11:49.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HazirUrunSatilan.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\HazirUrunSatilan.cs",
+              "RelativeDocumentMoniker": "No1\\HazirUrunSatilan.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\HazirUrunSatilan.cs",
+              "RelativeToolTip": "No1\\HazirUrunSatilan.cs",
+              "ViewState": "AQIAAC0CAAAAAAAAAAAcwFUCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-27T18:11:49.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HazirUrunSatilan.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\HazirUrunSatilan.cs",
+              "RelativeDocumentMoniker": "No1\\HazirUrunSatilan.cs",
+              "ToolTip": "C:\\Users\\aliko\\OneDrive\\Masa\u00FCst\u00FC\\No1\\No1\\HazirUrunSatilan.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\aliko\\OneDrive\\Masa\u00FCst\u00FC\\No1\\No1\\HazirUrunSatilan.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-27T18:11:49.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BarSatilan.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\BarSatilan.cs",
+              "RelativeDocumentMoniker": "No1\\BarSatilan.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\BarSatilan.cs",
+              "RelativeToolTip": "No1\\BarSatilan.cs",
+              "ViewState": "AQIAACkCAAAAAAAAAAAiwFICAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-27T18:11:49.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BarSatilan.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\BarSatilan.cs",
+              "RelativeDocumentMoniker": "No1\\BarSatilan.cs",
+              "ToolTip": "C:\\Users\\aliko\\OneDrive\\Masa\u00FCst\u00FC\\No1\\No1\\BarSatilan.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\aliko\\OneDrive\\Masa\u00FCst\u00FC\\No1\\No1\\BarSatilan.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-27T18:11:49.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BarRecete.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\BarRecete.cs",
+              "RelativeDocumentMoniker": "No1\\BarRecete.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\BarRecete.cs",
+              "RelativeToolTip": "No1\\BarRecete.cs",
+              "ViewState": "AQIAANMBAAAAAAAAAAAmwP0BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-27T18:11:49.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BarRecete.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\BarRecete.cs",
+              "RelativeDocumentMoniker": "No1\\BarRecete.cs",
+              "ToolTip": "C:\\Users\\aliko\\OneDrive\\Masa\u00FCst\u00FC\\No1\\No1\\BarRecete.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\aliko\\OneDrive\\Masa\u00FCst\u00FC\\No1\\No1\\BarRecete.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-27T18:11:49.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Anamenu.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\Anamenu.cs",
+              "RelativeDocumentMoniker": "No1\\Anamenu.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\Anamenu.cs",
+              "RelativeToolTip": "No1\\Anamenu.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-27T18:11:49.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Anamenu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\No1\\No1\\Anamenu.cs",
+              "RelativeDocumentMoniker": "No1\\Anamenu.cs",
+              "ToolTip": "C:\\Users\\aliko\\OneDrive\\Masa\u00FCst\u00FC\\No1\\No1\\Anamenu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\aliko\\OneDrive\\Masa\u00FCst\u00FC\\No1\\No1\\Anamenu.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-27T18:11:49.792Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 976,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
